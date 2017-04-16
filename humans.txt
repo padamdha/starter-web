@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Padam Dhariwal padam_dhariwal@yahoo.com
 
 # THANKS
 
